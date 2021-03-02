@@ -1,4 +1,5 @@
 import { Header } from "./components/Header/header.elements";
+import Hero from "./components/Hero";
 import NavBar from "./components/Navbar";
 import GlobalStyle from "./globalStyle";
 
@@ -9,6 +10,7 @@ function App() {
       <Header>
         <NavBar />
       </Header>
+      <Hero />
     </>
   );
 }

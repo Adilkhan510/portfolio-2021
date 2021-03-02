@@ -39,7 +39,8 @@ export const MenuLinks = styled(Link)`
   transition: 0.3s all ease-in-out;
 
   &:hover {
-    color: ${primaryColor};
+    color: #3dcfd3;
+    font-size: 1.2rem;
   }
 `;
 export const Logo = styled(Link)`
