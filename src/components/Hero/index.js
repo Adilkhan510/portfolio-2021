@@ -17,7 +17,7 @@ const Hero = () => {
       <RightContainer>
         <h6>Adil Khan</h6>
         <h1>
-          I am a creative <span>Programmer</span>
+          I am a freelance <span>Programmer</span>
         </h1>
         <p>
           I am a software developer based out of San Francisco, Ca. I have been
